@@ -79,7 +79,8 @@ This document contains the testing procedures, screenshots, and results from eva
 <img width="680" height="232" alt="fin" src="https://github.com/user-attachments/assets/5ff0a99a-1257-43b7-b8e9-70081bedb9c4" />
 <img width="545" height="724" alt="findetection" src="https://github.com/user-attachments/assets/9fcb3b9b-baf1-4699-a2d0-973233c574ed" />
 
-<img width="545" height="724" alt="fin" src="https://github.com/user-attachments/assets/a48ef122-4690-4c36-baec-994d1f2537ee" />
+<img width="553" height="654" alt="finreport" src="https://github.com/user-attachments/assets/e89e09b2-de3c-45c6-9ba3-dc4a7b306d6f" />
+
 
 
 ## Test 5 — TCP XMAS Scan
@@ -96,8 +97,10 @@ This document contains the testing procedures, screenshots, and results from eva
 
 **Outcome:** PASSED
 
+<img width="721" height="182" alt="xmas" src="https://github.com/user-attachments/assets/a33d92a6-d17d-4ca7-8cd2-b38b4af4effc" />
+
 <img width="582" height="732" alt="xmasdetection" src="https://github.com/user-attachments/assets/b7b676f1-c763-4d57-baa6-382c3e16e7b0" />
-<img width="721" height="182" alt="xmas" src="https://github.com/user-attachments/assets/9b969012-b986-49ea-bad9-a688a163b5d5" />
+
 <img width="519" height="648" alt="xmasreport" src="https://github.com/user-attachments/assets/cf355bac-d667-421f-8d51-68605949d09a" />
 
 
